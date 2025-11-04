@@ -1,0 +1,8 @@
+Student data backup
+Generated automatically
+Student: Alice Johnson, Average: 86.2
+Student: Bob Smith, Average: 80.0
+Student: Carol Davis, Average: 92.6
+Student: David Wilson, Average: 70.8
+Student: Emma Brown, Average: 87.6
+Student: Anton Williams, Average: 61.0
