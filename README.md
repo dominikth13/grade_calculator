@@ -1,7 +1,12 @@
 # Python Debugging Challenge
 
 ## Overview
-Welcome to this technical interview debugging exercise. You have **20 minutes** to identify and fix bugs in a Student Grade Analyzer Pipeline. This pipeline takes raw input data of student grades and does some calculations on it. Each student record contains grades of three tests and one homework, each graded in a range from **0 to 100 points.**
+Welcome to this technical interview debugging exercise. You have **20 minutes** to identify and fix bugs in a Student Grade Analyzer Pipeline. 
+
+## Context
+You are the "IT guy" at your local school. Once a year, there is a contest between the teachers at school, where the best class is honored. For this, you asked Github Copilot to setup a pipeline to do this task. This pipeline takes raw input data of student grades and does some calculations on it. Each student record contains grades of three tests and one homework, each graded in a range from **0 to 100 points.**
+
+After the pipeline was executed, you was called by the school leadership that the pipeline did not calculate the result correctly. You see that there was an error when calculating the results of one class.
 
 ## Project Structure
 ```
@@ -32,7 +37,6 @@ grade_calculator/
 ### Step 4: Think About What We Are Doing Here
 - Reflect on the broader context of this exercise
     - *Hint*: Analyze the **students.csv** and think about the impact this has on our data cleaning efforts
-    - Does data cleaning make sense looking at the content of the data set?
 - What risks do we encounter when working with this dataset?
 
 Good luck!
