@@ -1,7 +1,7 @@
 # Python Debugging Challenge
 
 ## Overview
-Welcome to this technical interview debugging exercise. You have **20 minutes** to identify and fix bugs in a Student Grade Analyzer Pipeline.
+Welcome to this technical interview debugging exercise. You have **20 minutes** to identify and fix bugs in a Student Grade Analyzer Pipeline. This pipeline takes raw input data of student grades and does some calculations on it. Each student record contains grades of three tests and one homework, each graded in a range from **0 to 100 points.**
 
 ## Project Structure
 ```
